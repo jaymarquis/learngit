@@ -7,3 +7,5 @@ Git is free software distributed under the GPL.
 afawefawefaw.
 
 ahiofewhfioahwiopjwiopae dev mode
+
+Creating a new branch is quick & simple.
